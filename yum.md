@@ -19,7 +19,8 @@ Delete an application
 
 ```mermaid
 graph LR
-A(yum) --> B(group) --> C(summary)
+A(yum) --> B(group) 
+B --> C(summary)
 B --> D(list)
 B --> E(info)-->GA(groupname)
 B --> F(remove)-->GA(groupname)
