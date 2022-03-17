@@ -30,8 +30,10 @@ yum install freetype-devel
 yum install ./teamviewer_15.15.2.x86_64.rpm 
 ```
 ___
+
 **Installation Logs**
-```[denny@banana Downloads]$ wget https://dl.teamviewer.com/download/linux/version_15x/teamviewer_15.15.2.x86_64.rpm
+```
+[denny@banana Downloads]$ wget https://dl.teamviewer.com/download/linux/version_15x/teamviewer_15.15.2.x86_64.rpm
 --2022-03-17 23:28:59--  https://dl.teamviewer.com/download/linux/version_15x/teamviewer_15.15.2.x86_64.rpm
 Resolving dl.teamviewer.com (dl.teamviewer.com)... 104.16.62.16, 104.16.63.16, 2606:4700::6810:3e10, ...
 Connecting to dl.teamviewer.com (dl.teamviewer.com)|104.16.62.16|:443... connected.
@@ -144,6 +146,7 @@ Complete!
 ```
 
 ___
+
 **Reference:**
 
  - https://www.teamviewer.com/en/download/linux/
