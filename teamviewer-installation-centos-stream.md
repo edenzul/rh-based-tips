@@ -1,7 +1,7 @@
 # Teamviewer installation for centos stream
 
 **Note**
-2023/03/17
+2022/03/17
 - recent teamviewer version (teamviewer_15.27.3.x86_64.rpm) seems is not working in centos-8-stream.
 - Therefore the software version used in this instruction is using older release teamviewer_15.15.2.x86_64.rpm
 
